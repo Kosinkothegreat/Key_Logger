@@ -1,7 +1,7 @@
 NOTE: This is only for educational purpose
 
 key loggers are malicious tool, and can be flagged as a virus
-don't use this for malicious purposes, I want be held accountable for your actions.
+don't use this for malicious purposes, I won't be held accountable for your actions.
 
 
 
